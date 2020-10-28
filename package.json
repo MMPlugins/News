@@ -1,6 +1,6 @@
 {
-  "name": "modmailmsgclose",
+  "name": "modmailtemplate",
   "version": "1.0.0",
-  "description": "A plugin to close threads with a message for Dragory's modmail.",
+  "description": "Template repository for plugins",
   "main": "./index.js"
 }
