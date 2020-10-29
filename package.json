@@ -2,7 +2,7 @@
   "name": "djsmodmailtemplate",
   "version": "1.0.0",
   "description": "Template repository for djs plugins",
-  "main": "./index.js"
+  "main": "./index.js",
   "dependencies":{
   "discord.js":"^12.4.1"
 }
