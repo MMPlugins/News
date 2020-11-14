@@ -6,6 +6,7 @@ in your config.ini file, make a new line and add:
 ```ini
 plugins[] = npm:MMPlugins/News#stable
 ```
+Create a file called `plugins.config.json`
 Restart your bot!
 
 And that's it!
