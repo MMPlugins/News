@@ -1,7 +1,7 @@
 {
-  "name": "djsmodmailtemplate",
+  "name": "news",
   "version": "1.0.0",
-  "description": "Template repository for djs plugins",
+  "description": "News plugin for modmail",
   "main": "./index.js",
   "dependencies":{
   "discord.js":"^12.4.1"
